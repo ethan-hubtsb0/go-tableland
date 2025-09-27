@@ -1,6 +1,6 @@
 module github.com/textileio/go-tableland
 
-go 1.19
+go 1.24.0
 
 require (
 	cloud.google.com/go/bigquery v1.51.0
@@ -28,7 +28,7 @@ require (
 	go.opentelemetry.io/otel/metric v0.37.0
 	go.opentelemetry.io/otel/sdk/metric v0.37.0
 	go.uber.org/atomic v1.10.0
-	golang.org/x/sync v0.1.0
+	golang.org/x/sync v0.17.0
 )
 
 require (
