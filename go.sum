@@ -727,8 +727,8 @@ github.com/gorilla/handlers v1.4.2/go.mod h1:Qkdc/uu4tH4g6mTK6auzZ766c4CA0Ng8+o/
 github.com/gorilla/mux v1.7.2/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
 github.com/gorilla/mux v1.7.3/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
 github.com/gorilla/mux v1.7.4/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
-github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
-github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
+github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
 github.com/gorilla/websocket v0.0.0-20170926233335-4201258b820c/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
 github.com/gorilla/websocket v1.4.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
 github.com/gorilla/websocket v1.4.1/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
@@ -1295,12 +1295,6 @@ github.com/syndtr/gocapability v0.0.0-20180916011248-d98352740cb2/go.mod h1:hkRG
 github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635/go.mod h1:hkRG7XYTFWNJGYcbNJQlaLq0fg1yr4J4t/NcTQtrfww=
 github.com/syndtr/goleveldb v1.0.1-0.20220614013038-64ee5596c38a h1:1ur3QoCqvE5fl+nylMaIr9PVV1w343YRDtsy+Rwu7XI=
 github.com/syndtr/goleveldb v1.0.1-0.20220614013038-64ee5596c38a/go.mod h1:RRCYJbIwD5jmqPI9XoAFR0OcDxqUctll6zUj/+B4S48=
-github.com/tablelandnetwork/sqlparser v0.0.0-20240523182602-af3edf08e3db h1:4/eOYTPLww9YzdsteeGFhcT8dwIaCm3FIOwrxs6ppQM=
-github.com/tablelandnetwork/sqlparser v0.0.0-20240523182602-af3edf08e3db/go.mod h1:S+M/v3Q8X+236kQxMQziFcLId2Cscb1LzW06IUVhljE=
-github.com/tablelandnetwork/sqlparser v0.0.0-20240529190608-e3776575020d h1:Xhc6wudmyItX8Pvr+Z2SCzOmrf/zda5sX1jCgUySNRg=
-github.com/tablelandnetwork/sqlparser v0.0.0-20240529190608-e3776575020d/go.mod h1:S+M/v3Q8X+236kQxMQziFcLId2Cscb1LzW06IUVhljE=
-github.com/tablelandnetwork/sqlparser v0.0.0-20240816141915-b33ac93c827a h1:Laz5yY58N2hUxDdVSejR3mIg0fGAjpD4JktMkgY6dDk=
-github.com/tablelandnetwork/sqlparser v0.0.0-20240816141915-b33ac93c827a/go.mod h1:S+M/v3Q8X+236kQxMQziFcLId2Cscb1LzW06IUVhljE=
 github.com/tablelandnetwork/sqlparser v0.0.0-20240816204758-a982c05b74be h1:g4/tys/pCKgqUUFg/zsvmS1GxoaEJjDFW4bNVLwbWx8=
 github.com/tablelandnetwork/sqlparser v0.0.0-20240816204758-a982c05b74be/go.mod h1:S+M/v3Q8X+236kQxMQziFcLId2Cscb1LzW06IUVhljE=
 github.com/tchap/go-patricia v2.2.6+incompatible/go.mod h1:bmLyhP68RS6kStMGxByiQ23RP/odRBOTVjwp2cDyi6I=
